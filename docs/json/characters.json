@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Player",
+    "color": "black"
+  },
+  {
+    "name": "Setsu",
+    "color": "deepskyblue"
+  },
+  {
+    "name": "Gina",
+    "color": "purple"
+  },
+  {
+    "name": "SQ",
+    "color": "red"
+  },
+  {
+    "name": "Raqio",
+    "color": "blue"
+  },
+  {
+    "name": "Stella",
+    "color": "green"
+  },
+  {
+    "name": "Shigemichi",
+    "color": "yellowgreen"
+  },
+  {
+    "name": "Chipie",
+    "color": "darkorange"
+  },
+  {
+    "name": "Comet",
+    "color": "goldenrod"
+  },
+  {
+    "name": "Jonas",
+    "color": "brown"
+  },
+  {
+    "name": "Kukrushka",
+    "color": "palevioletred"
+  },
+  {
+    "name": "Otome",
+    "color": "deeppink"
+  },
+  {
+    "name": "Sha-Ming",
+    "color": "black"
+  },
+  {
+    "name": "Remnan",
+    "color": "gray"
+  },
+  {
+    "name": "Yuriko",
+    "color": "tan"
+  }
+]

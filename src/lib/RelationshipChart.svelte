@@ -6,7 +6,8 @@
   let angle: number = 0;
 
   const fetchCharacters = async (): Promise<Character[]> => {
-    const response: Response = await fetch('/json/characters.json');
+    const baseUrl = import.meta.env.PROD ? '/gnosia-relationship-chart' : '';
+    const response: Response = await fetch(baseUrl + '/json/characters.json');
     const json: Character[] = await response.json();
     angle = 360 / json.length;
     return json;

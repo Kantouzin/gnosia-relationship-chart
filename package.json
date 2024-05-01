@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build --base=/gnosia-relationship-chart/",
     "preview": "vite preview",
     "check": "svelte-check --tsconfig ./tsconfig.json"
   },
