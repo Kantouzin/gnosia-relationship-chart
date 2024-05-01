@@ -14,7 +14,7 @@
 </script>
 
 <div
-  class="border border-5 rounded-circle d-flex justify-content-center align-items-center"
+  class="border border-5 rounded-circle d-flex justify-content-center align-items-center my-5"
   style="width: {radius * 2}px; aspect-ratio: 1 / 1;"
 >
   {#await fetchCharacters()}
